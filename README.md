@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CNAmahia Chuks Amahia 
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently about to start learning Information Security
+- 🌱 I’m currently learning Information Security
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me cnmeister17@gmail.com
 
